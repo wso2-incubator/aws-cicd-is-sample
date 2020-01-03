@@ -3,7 +3,7 @@
 <suite name="Sample-test-suite-wso2is" verbose="1" >
     <test name="HTTP backend test" >
         <classes>
-            <class name="org.wso2.isTest" />
+            <class name="org.wso2.IsTest" />
         </classes>
     </test>
 </suite>
