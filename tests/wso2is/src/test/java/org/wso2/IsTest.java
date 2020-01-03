@@ -29,7 +29,7 @@ import java.util.concurrent.TimeUnit;
  * This class tests whether IS node is up and running
  */
 
-public class isTest {
+public class IsTest {
     @Test public static void main(String[] args) {
         int exitCode=1;
         try {
