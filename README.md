@@ -1,4 +1,8 @@
 ## Sample test cases for AWS Pipeline WSO2IS
+> **Warning**
+>
+>   The CICD pipeline is deprecated.
+>
 
 Sample product artifacts and and sample test cases for WSO2 Identity Server. This repository is used as the sample for artifacts repository in WSO2 AWS pipeline for WSO2IS.
 
